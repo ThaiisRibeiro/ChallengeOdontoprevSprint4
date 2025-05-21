@@ -30,7 +30,7 @@ Foram desenvolvidos testes de:
 - **Integração:** validando conexão com o banco Oracle e endpoints REST.
 - **Sistema:** simulação de fluxo completo (ex: agendamento com possível fraude).
 
-> Todos os testes foram escritos com `xUnit` e aplicam mocks onde necessário para garantir independência e velocidade na execução.
+> Todos os testes foram escritos com `xUnit` 
 
 ## 🧼 Aplicação de Clean Code e Princípios SOLID
 
@@ -47,7 +47,7 @@ Foram desenvolvidos testes de:
 |----------|-----------|
 | **SRP** - Single Responsibility | Cada classe faz apenas uma coisa. Ex: `RepositoryPaciente` trata só de pacientes. |
 | **OCP** - Open/Closed | Classes podem ser estendidas sem modificação. Ex: serviços validam novas regras via extensões. |
-| **LSP** - Liskov Substitution | Interfaces e heranças respeitam substituição. Ex: `IRepository` garante contrato para todas entidades. |
+| **LSP** - Liskov Substitution | Interfaces e heranças respeitam substituição. |
 | **ISP** - Interface Segregation | Interfaces específicas:`IPacienteRepository` etc. |
 | **DIP** - Dependency Inversion | Controllers e serviços dependem de abstrações, usando injeção de dependência. |
 
