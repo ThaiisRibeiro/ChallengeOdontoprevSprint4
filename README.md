@@ -1,4 +1,4 @@
-# 🦷 Challenge OdontoPrev Sprint 4 - API com C#, ML.NET e Xunit
+# 🦷 Challenge OdontoPrev Sprint 4 - API com C#, ML.NET e xUnit
 
 ## 📖 Sobre o Projeto
 
