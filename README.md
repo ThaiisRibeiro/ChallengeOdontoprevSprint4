@@ -1,4 +1,4 @@
-# 🦷 Challenge OdontoPrev Sprint 3 - API Inteligente com C# e ML.NET
+# 🦷 Challenge OdontoPrev Sprint 4 - API Inteligente com C# e ML.NET
 
 ## 📖 Sobre o Projeto
 
